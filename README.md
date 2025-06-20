@@ -1,4 +1,4 @@
-Thit is an AWS lambda fucntion to the react-ui application.
+This is an AWS lambda fucntion to the react-ui application.
 
 This runs in Node js version 18.x. The contents of this repository needs to be zipped and uploaded in the AWS lambda console(code section). 
 
