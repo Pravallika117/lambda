@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.826.0",
+    "@aws-sdk/lib-dynamodb": "^3.826.0",
+    "uuid": "^11.1.0"
+  }
+}
